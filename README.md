@@ -8,4 +8,4 @@
 
 **link to the repository for this task:**
 
-Тут [репозиторий](https://github.com/Aleksandr0987654321/home_work_git_.git "Заголовок") для этого задания ***<<< нажать тут***
+Тут [репозиторий](https://github.com/Aleksandr0987654321/git_home-work?tab=readme-ov-file "Заголовок") для этого задания ***<<< нажать тут***
